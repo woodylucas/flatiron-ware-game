@@ -1,4 +1,7 @@
-## Flatiron Ware
+# Flatiron Ware Game  [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)](https://github.com/facebook/create-react-app/pulls)
+
+
+Build Status Windows Build Status js-standard-style
 
 The goal of the game is to get as many points as you can!
 
@@ -12,11 +15,11 @@ https://youtu.be/VQzxto20pow
 
 ### Built on
 
-Javascript 
+- Javascript 
 
-Phaser
+- Phaser
 
-Ruby on Rails 
+- Ruby on Rails 
 
 ### Contributors
 
