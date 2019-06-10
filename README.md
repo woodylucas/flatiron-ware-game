@@ -8,7 +8,7 @@ The goal of the game is to get as many points as you can!
 ##### https://flatiron-ware-game.herokuapp.com/
 
 ### Demo Video
-https://youtu.be/VQzxto20pow
+https://youtu.be/Hc3RED572zA
 
 ![alt text](https://media.giphy.com/media/iiavnccNTFLfjYdj8m/giphy.gif)
 
